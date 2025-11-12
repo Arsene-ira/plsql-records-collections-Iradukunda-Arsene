@@ -1,7 +1,8 @@
 # PL/SQL: Collections, Records, and GOTO — Examples
+
 **Name**: Arsene Iradukunda
 **Student ID**: 27206
-*Course**: PL/SQL
+**Course**: PL/SQL
 
 This repository contains concise, runnable PL/SQL examples that demonstrate:
 - **Collections**: associative arrays, nested tables, varrays
@@ -38,4 +39,5 @@ How to run:
 - **How to run**:
   - Use SQL Developer or SQL*Plus and run each script in order.
   - If Employees table is not present, load `00_schema_create.sql` first (this repo assumes your provided schema exists). :contentReference[oaicite:5]{index=5}
+
 
